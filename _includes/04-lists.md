@@ -1,5 +1,5 @@
-*Drawings
+* Drawings
 
-*Designs
+* Designs
 
-*Colors
+* Colors
