@@ -1,5 +1,5 @@
-:sparkles:Drawings
+*Drawings
 
-:sparkles:Designs
+*Designs
 
-:sparkles:Colors
+*Colors
